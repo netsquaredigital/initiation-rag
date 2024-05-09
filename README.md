@@ -35,3 +35,6 @@ python script.py
 Au premier lancement, les différents modèles seront téléchargés et l'index sera généré, ce qui peut prendre du temps selon les ressources matérielles de votre PC/serveur et la taille du corpus que vous utilisez.
 
 Ce script, inspiré de la documentation officielle de LlamaIndex est créé dans un but pédagogique. L'emploi d'un framework web comme flask ou django pour interroger votre RAG via une API, la possibilité de réindexer votre corpus sont des évolutions qui rendront votre RAG plus opérationnel.
+
+
+Retrouvez le magazine de l'intelligence artificielle sur https://boutique.actuia.com
