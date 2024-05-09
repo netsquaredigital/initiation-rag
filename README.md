@@ -6,6 +6,13 @@ Ce script se base sur Ollama et llamaIndex.
 *  Installez et lancez l'application Ollama ( https://ollama.com/ ) qui permet de faire tourner des LLM open source en local.
 
 # Modules python : 
+
+Vous pouvez installer l'ensemble des modules python nécessaires en lançant la commande : 
+```
+pip install -r requirements.txt
+```
+ou un par un  :
+
 #### LlamaIndex : framework de conception d'applications basées sur les LLM
 ```
 pip install llama-index
