@@ -4,6 +4,8 @@ Ce script se base sur Ollama et llamaIndex.
 
 # Installation préalable
 *  Installez et lancez l'application Ollama ( https://ollama.com/ ) qui permet de faire tourner des LLM open source en local.
+*  Le script utilise actuellement le modèle : llama3:8b , à télécharger depuis l'interface ou en ligne de commande :
+   ``` ollama pull llama3:8b ```
 
 # Modules python : 
 
