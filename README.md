@@ -3,7 +3,7 @@ Voici un exemple de script permettant la mise en place d'un système de RAG mini
 Ce script se base sur Ollama et llamaIndex.
 
 # Installation préalable
-*  Installez l'application Ollama ( https://ollama.com/ )
+*  Installez et lancez l'application Ollama ( https://ollama.com/ ) qui permet de faire tourner des LLM open source en local.
 
 # Modules python : 
 #### LlamaIndex : framework de conception d'applications basées sur les LLM
